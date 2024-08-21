@@ -1,0 +1,6 @@
+[submodule "thirdParty/pmp-library"]
+	path = thirdParty/pmp-library
+	url = https://github.com/pmp-library/pmp-library.git
+[submodule "thirdParty/GeometricTools"]
+	path = thirdParty/GeometricTools
+	url = https://github.com/davideberly/GeometricTools.git
